@@ -5,6 +5,12 @@
 # DOMAIN-SUFFIX: 2
 # IP-CIDR: 22
 # TOTAL: 24
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,clashroyaleapp.com
+DOMAIN-SUFFIX,clashroyale.com
+DOMAIN-SUFFIX,haydaygame.com
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,boombeachgame.com
 DOMAIN-SUFFIX,brawlstars.com
 DOMAIN-SUFFIX,brawlstarsgame.com
 IP-CIDR,13.210.25.233/32,no-resolve
