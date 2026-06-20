@@ -1,10 +1,5 @@
-# NAME: Emby
+# NAME: Emby 私服
 # UPDATED: 2026-06-20 09:18:50
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 45
-# PROCESS-NAME: 1
-# TOTAL: 52
 DOMAIN,my.microsoftpersonalcontent.com
 DOMAIN,emby.n150.asia
 DOMAIN,cf.aixj.de
